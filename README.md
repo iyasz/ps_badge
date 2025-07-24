@@ -43,7 +43,7 @@ Just replace `{name}` with the tech/tool you're representing!
 
 ### 🎨 Credits
 
-Artwork/Visuals are heavily inspired by the style of *Project SEKAI: Colorful Stage*!.
+Badge design is heavily inspired by the style of *Project SEKAI: Colorful Stage*!.
 
 Copyright:
 If you're the original artist or copyright holder of any visuals used and would like credit or removal, feel free to open an issue or contact me.
